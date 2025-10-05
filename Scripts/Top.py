@@ -137,7 +137,7 @@ def main():
     submission_df = pd.DataFrame({'id': submission_ids, 'song_popularity': final_predictions})
     submission_df.to_csv('Top.csv', index=False)
     
-    print("Submission file 'submission.csv' created successfully!")
+    print("Submission file 'Top.csv' created successfully!")
     print("\nSubmission Preview:")
     print(submission_df.head())
 
