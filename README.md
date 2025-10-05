@@ -25,7 +25,7 @@ The dataset is provided by Kaggle and consists of two main files:
 
 ---
 
-## 🤖 Methodology
+##  Methodology
 
 The project follows a standard machine learning pipeline:
 
@@ -50,7 +50,7 @@ The ensembling strategy proved effective, leveraging the strengths of each indiv
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1.  **Clone the repository:**
     ```bash
