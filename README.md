@@ -67,4 +67,4 @@ The ensembling strategy proved effective, leveraging the strengths of each indiv
     ```bash
     python scripts/train.py
     ```
-    This will generate the `submission_grandmaster_blend.csv` file.
+    This will generate the `Top.csv` file.
